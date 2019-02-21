@@ -1,0 +1,10 @@
+/* font-family: 'Playfair Display', serif; */
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+html, body{margin:0;padding:0;font-size:16px;color:#222;font-family: "Times New Roman", "Georgia", "Serif";}
+p,div,ul,ol,li,h1,h2,h3,h4,h5,h6{margin:0;padding:0;box-sizing: border-box;}
+.clear ::after{content:"";display: block;clear:both;}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";"serif";
+  letter-spacing: 5px;
+}
